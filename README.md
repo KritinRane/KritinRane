@@ -2,7 +2,7 @@
 
 - currently learning neural network compilers / ML compilation. 
 - building [DuckFitnessPal](https://github.com/KritinRane/DuckFitnessPal), a macro tracking tool connecting with the Stevens Dining Hall.
-- summer technology & innovations intern @ NERDSTOGO
+- summer technology & innovations intern @ nerdstogo
 - head of operations @ stevens software engineering club
 - quant devops analyst @ stevens student management investment fund 
 
